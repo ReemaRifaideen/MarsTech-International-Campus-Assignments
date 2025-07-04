@@ -1,0 +1,33 @@
+/* 2. The text should be white and background black. */
+ /* 4. The text should be center aligned.  */
+
+html{
+    background-color: black;
+}
+
+h1{
+    color:antiquewhite;
+    text-align:center;
+}
+ /* 6. Read about the text-transform property on MDN docs to make the h1 uppercase with CSS. 
+https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform   */
+.poster h1{
+    color:rgb(247, 223, 2);
+    font-family:"Libre Baskerville",'Playfair+Display';
+    text-transform: uppercase;
+    text-align:center;
+    font-size:2rem;
+}
+
+.motivation-img{
+    border:5px solid white;
+    width:100%;
+}
+
+.poster{
+    margin-top:70px;
+    width:50%;
+    margin-left:25%;
+    color:white;
+    text-align:center;
+}
