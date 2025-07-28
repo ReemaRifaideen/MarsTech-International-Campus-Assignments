@@ -8,7 +8,7 @@ Provides cutting-edge education in technology, fostering innovation, research, a
 # 👁‍🗨Vision
 To be a premier center for transformative education, inspiring excellence in learning, innovation, and community impact to empower future tech leaders.
 # 🗃This repository contains
-Academic Assignments, Projects regarding of **Artificial Intelligence**, **Cyber Security** & **Full Stack Web Development**. It includes tasks and solutions displaying skillset for the fields.
+Academic Assignments, Projects regarding of **Artificial Intelligence**, **Cyber Security** & **Full Stack Web Development**. It include tasks and solutions displaying skillset for the fields.
 - `AI_Solutions/`: Folder contains algorithms, assignments, and projects.
 - `Cyber_Security/`: Folder contains Security solutions, threat analysis, ethical hacking examples, and defensive strategies.
 - `Full Stack Web Development/`: Folder contains front-end and back-end web development languages, step by step tasks, and capston projects.
@@ -16,7 +16,8 @@ Academic Assignments, Projects regarding of **Artificial Intelligence**, **Cyber
 
 # 📩 Contact
 If you have any questions or encounter issues:
-Visit website:: https://marstech.lk/
+
+Visit website: https://marstech.lk/
 
 Reach out via email: marstechcampus@gmail.com
 
@@ -24,4 +25,4 @@ Reach out via email: marstechcampus@gmail.com
 1. Fork this repository.
 2. Clone your fork:
    ```bash
-   git clone https://github.com/ReemaRifaideen/Mars-tech-Assignments.git
+   git clone https://github.com/ReemaRifaideen/MarsTech-International-Campus-Assignments.git
