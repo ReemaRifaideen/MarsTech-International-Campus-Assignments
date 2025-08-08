@@ -11,7 +11,7 @@ To be a premier center for transformative education, inspiring excellence in lea
 Academic Assignments, Projects regarding of **Artificial Intelligence**, **Cyber Security** & **Full Stack Web Development**. It include tasks and solutions displaying skillset for the fields.
 - `AI_Solutions/`: Folder contains algorithms, assignments, and projects.
 - `Cyber_Security/`: Folder contains Security solutions, threat analysis, ethical hacking examples, and defensive strategies.
-- `Full Stack Web Development/`: Folder contains front-end and back-end web development languages, step by step tasks, and capston projects.
+- `Full_Stack_Web_Development/`: Folder contains front-end and back-end web development languages, step by step tasks, and capston projects.
 - `README.md`: The file you're currently viewing, which provides information about this folder.
 
 # 📩 Contact
