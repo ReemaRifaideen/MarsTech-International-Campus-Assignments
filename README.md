@@ -1,7 +1,7 @@
 # MarsTech-International-Campus-Assignments
 <img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/c49741a4-8540-4389-80e9-7f0702c6c8de" />
 
-# ℹ About
+# ℹ️About
 MARSTECH INTERNATIONAL CAMPUS is a leading institution offering diverse programs in Cybersecurity, Artificial Intelligence, Computer Hardware, Digital Marketing, and more.
 # 🎯Mission
 Provides cutting-edge education in technology, fostering innovation, research, and practical skills development. And also aim to equip students with the expertise needed to excel in the tech industry and drive global progress in an ever-evolving digital world.
